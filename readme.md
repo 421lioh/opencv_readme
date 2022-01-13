@@ -12,7 +12,7 @@
 
 ## Contributing
 
-Please read the contribution guidelines before starting work on a pull quest.<br>
+Please read the <span style="color:blue"> contribution guidelines </span> before starting work on a pull quest.<br>
 
 ### Summary of the guidelines:<br>
 
@@ -20,4 +20,4 @@ Please read the contribution guidelines before starting work on a pull quest.<br
 * Choose the right base branch;<br>
 * Include tests and documentation;<br>
 * Clean up "oops" commits before submitting;<br>
-* Follow the coding style guide
+* Follow the <span style="color:blue"> coding style guide</span>
